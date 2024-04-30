@@ -1,6 +1,8 @@
 # GameProgramming
 Games I created for Graduate Level Game programming class using Unity Engine (2D/3D)
+
 All games are published on itch.io
+
 Click any link below to play my game!
 
 Game 1 (Need Eggs): https://jackiefine.itch.io/need-eggs
